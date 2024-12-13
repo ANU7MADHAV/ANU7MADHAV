@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate self-taught programmer based in Kerala,India. I have a deep love for coding and technology, and I'm constantly exploring new languages, frameworks, and tools to expand my skills and knowledge.</h3>
 
 
-- 🌱 I’m currently learning **Web3,Rust,System Design,Devops**
+- 🌱 I’m currently Mastering **Golang**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-eosin-ten.vercel.app/](https://portfolio-website-eosin-ten.vercel.app/)
 
